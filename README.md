@@ -75,7 +75,7 @@ adb uninstall [软件包名]
 adb install -r [Path]
 ``
 ### Step 2.安装应用
-1.将apk文件将其移动到/sdcard/jx/market中<br>
+1.将apk文件移动到/sdcard/jx/market中<br>
 2.进入蚂蚁市场滑到最右侧的文件管理<br>
 3.点击安装
 
