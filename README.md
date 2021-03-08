@@ -11,16 +11,16 @@
 所以阿玛丁手表很难进行Root<br>
 目前无法找到稳定且有效的Root手段
 ## 常见阿玛丁配置
-|  Device   |           A-WATCH(16G)              |
+| Device | A-WATCH(16G) |
 | ----------------: | :---------------------------------------------- |
-|      SoC         | sp9820e_1h10_v5m_8x |
-|      CPU         | sp9820e 32 MODE (armeabi-v7a) |
-|       GPU         | ARM Mali-T820         |
-|    Memory     | 1 GB RAM   |
-| Shipped Android version |  4.4.4               |
-|        Storage      | 6-7GB   |
-|       Battery      |      1700 mAh        |
-|       Camera  | 0.3 MP (640 × 480) 3.75 mm |
+| SoC | sp9820e_1h10_v5m_8x |
+| CPU | sp9820e 32 MODE (armeabi-v7a) |
+| GPU | ARM Mali-T820  |
+| Memory | 1 GB RAM  |
+| Shipped Android version | 4.4.4  |
+| Storage | 6-7GB  |
+| Battery | 1700 mAh |
+| Camera | 0.3 MP (640 × 480) 3.75 mm |
 # Why Amartown？
 总之当时就是非常非常后悔（雾）
 
@@ -92,7 +92,7 @@ adb install -r [Path]
 3.点击安装
 
 # 进阶
-* 修改dpi<br>
+* 修改dpi（解决登录、协议点不到的问题）<br>
 ``
 adb shell
 ``<br>
