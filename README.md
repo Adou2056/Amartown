@@ -37,7 +37,8 @@
 ### Step 3.插线连接电脑
 ## 计算机:
 ### Step 1.网络上下载<br>
-`安卓adb驱动`和`adb工具包`
+`安卓adb驱动`和`adb工具包`<br>
+也可在本项目找到
 ### Step 2.配置adb
 将`adb.exe` `AdbWinUsbApi.dl` `AdbWinApi.dl` `fastboot.exe`放入<br>
 `系统盘:\user(用户)\$登录用户`根目录里
