@@ -43,21 +43,21 @@
 * Linux使用apt-get install android-tools-adb指令配置adb
 * Mac使用homebrew配置adb，不赘述
 ### Step 3.cmd/终端输入adb相关指令
-* 查看设备状态
+* 查看设备状态<br>
 ``
 adb device
 ``<br>
-* 安装应用
+* 安装应用<br>
 ``
 adb install [.apk文件所在路径]
 ``<br>
 例如<br>
 `adb install D:\TIM2.5.2.apk`<br>
-* 覆盖安装应用
+* 覆盖安装应用<br>
 ``
 adb install -r [.apk文件所在路径]
 ``<br>
-* 删除应用
+* 删除应用<br>
 ``
 adb uninstall [软件包名]
 ``<br>
@@ -79,7 +79,7 @@ adb install -r [Path]
 3.点击安装
 
 # 进阶
-* 修改dpi
+* 修改dpi<br>
 ``
 adb shell
 ``<br>
