@@ -96,5 +96,7 @@ wm density [number]
 ``
 wm size
 ``<br>
+* 强制恢复出厂设置
+> 狂按电源键
 ## Fin
 2021.3.8
