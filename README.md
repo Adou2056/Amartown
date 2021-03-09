@@ -1,8 +1,8 @@
 中文 | [English](README_English.md)
-# Amartown QQ Groups
+# 阿玛丁QQ群组
 * 一群：`722870741`
 * 二群：`865530844`
-# What's Amartown Watch(A-Watch)？
+# 阿玛丁智能手表是什么？
 阿玛丁智能手表（A-Watch）<br>
 是国内一款出名的电子移动设备<br>
 其运存和内存都存在描述偏差<br>
@@ -22,7 +22,7 @@
 | Storage | 6-7GB  |
 | Battery | 1700 mAh |
 | Camera | 0.3 MP (640 × 480) 3.75 mm |
-# Why Amartown？
+# 为什么要买阿玛丁？
 总之当时就是非常非常后悔（雾）
 
 >充电接口类型
