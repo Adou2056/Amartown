@@ -75,7 +75,7 @@ adb uninstall [Package Name]
 ``<br>
 Like<br>
 `adb uninstall com.tencent.mobileqq`
-##### Note:
+### Note:
 1. APK files need to be compatible with 32-bit processor and support Android 4.4.4<br>
 2. The apk path must have no special characters and Spaces<br>
 3. The lower version of ADB tool even requires that there be no Chinese words.
