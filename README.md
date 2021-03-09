@@ -76,7 +76,7 @@ adb uninstall [软件包名]
 ``<br>
 例如<br>
 `adb uninstall com.tencent.mobileqq`
-##### Note:
+### Note:
 1.apk文件需要兼容32位处理器，支持安卓4.4.4<br>
 2.apk所在路径需要没有特殊字符、空格<br>
 3.低版本adb工具的甚至要求不能有中文字眼<br>
