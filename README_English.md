@@ -36,7 +36,7 @@ You need:<br>
   * A suitable charging line (need to be able to transmit data) <br>
 The necessary files can be found in Code
 ### Note:
-The chassis magnetic suction charging device needs welding. If you have strong hands-on ability, you can try it, but I don't hope ypu to do so...Please get out of the pit as soon as possible (wwwwww)
+The chassis magnetic suction charging device needs welding. If you have strong hands-on ability, you can try it, but I don't hope you to do so...Please get out of the pit as soon as possible (wwwwww)
 ## A-Watch:
 ### Step 1.Go to Native Settings
 Say to the AI voice assistant `打开设置`(da'kai'she'zhi)<br>
@@ -48,7 +48,7 @@ Turn on USB Debug in the Developer option <br>
 ### Step 3.Plug the line into the computer
 ## Computer:
 ### Step 1.Download<br>
-`Android ADB Drive `和`adb-tools`<br>
+`Android ADB Drive `and`adb-tools`<br>
 ### Step 2.Configurate ADB
 Copy`adb.exe` `AdbWinUsbApi.dl` `AdbWinApi.dl` `fastboot.exe`into<br>
 `System Disk:\user\$Login user `
