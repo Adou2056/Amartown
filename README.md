@@ -5,8 +5,8 @@
 阿玛丁智能手表（A-Watch）<br>
 是国内一款出名的电子移动设备<br>
 其运存和内存都存在描述偏差<br>
-搭载Android 4.4.4(kitkat)的FWatchOS(fwOS)<br>
 有软件安装限制<br>
+搭载Android 4.4.4(kitkat)的FWatchOS(fwOS)<br>
 由于FWOS存在反Root机制且未开源放包<br>
 所以阿玛丁手表很难进行Root<br>
 目前无法找到稳定且有效的Root手段
@@ -43,13 +43,12 @@
 或者在拨号盘输入`*#991#*`<br>
 ### Step 2.打开usb调试
 关于手机-版本号<br>
-连续点击点7次 返回上一级设置<br>
+连续点击7次 返回上一级设置<br>
 在开发者选项中打开usb调试<br>
 ### Step 3.插线连接电脑
 ## 计算机:
-### Step 1.网络上下载<br>
+### Step 1.下载<br>
 `安卓adb驱动`和`adb工具包`<br>
-也可在本项目找到
 ### Step 2.配置adb
 将`adb.exe` `AdbWinUsbApi.dl` `AdbWinApi.dl` `fastboot.exe`放入<br>
 `系统盘:\user(用户)\$登录用户`根目录里
