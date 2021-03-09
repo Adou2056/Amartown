@@ -1,3 +1,4 @@
+中文 | [English](README_English.md)
 # Amartown QQ Groups
 * 一群：`722870741`
 * 二群：`865530844`
@@ -109,4 +110,4 @@ wm size
 * 强制恢复出厂设置
 > 狂按电源键
 ## Fin
-2021.3.8
+2021.3.9
