@@ -2,6 +2,9 @@
 # 阿玛丁QQ群组
 * 一群：`722870741`
 * 二群：`865530844`
+
+![Image text](https://raw.githubusercontent.com/Adou2056/Amartown/A-Watch/c47c5f5f-d57c-49bd-a7ad-6e3d27f81c90.jpg)
+
 # 阿玛丁智能手表是什么？
 阿玛丁智能手表（A-Watch）<br>
 是国内一款出名的电子移动设备<br>
