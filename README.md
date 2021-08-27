@@ -1,7 +1,7 @@
 中文 | [English](README_English.md)
 # 阿玛丁聊天群组
-* QQ一群：`722870741`
-* QQ二群：`865530844`
+* QQ一群：`865530844`
+* QQ二群：`722870741`
 * Telegram群组：https://t.me/joinchat/5IYgPm4dhcZhMWQ1
 
 ![Image text](https://raw.githubusercontent.com/Adou2056/Amartown/A-Watch/c47c5f5f-d57c-49bd-a7ad-6e3d27f81c90.jpg)

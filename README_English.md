@@ -1,6 +1,6 @@
 # Amartown Chat Groups
-* QQ Group 1：`722870741`
-* QQ Group 2：`865530844`
+* QQ Group 1：`865530844`
+* QQ Group 2：`722870741`
 * Telegram Grop |CN Only|：https://t.me/joinchat/5IYgPm4dhcZhMWQ1
 
 # What's Amartown Watch(A-Watch)？
