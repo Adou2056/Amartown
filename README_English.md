@@ -1,6 +1,8 @@
-# Amartown QQ Groups
-* Group 1：`722870741`
-* Group 2：`865530844`
+# Amartown Chat Groups
+* QQ Group 1：`722870741`
+* QQ Group 2：`865530844`
+* Telegram Grop |CN Only|：https://t.me/joinchat/5IYgPm4dhcZhMWQ1
+
 # What's Amartown Watch(A-Watch)？
 Amartown Smart Watch(A-Watch)<br>
 is known electronic mobile equipment in China<br>
@@ -10,6 +12,9 @@ its FWatchOS(fwOS) is based on Android 4.4.4(kitkat)<br>
 FWOS has an anti-root mechanism and does not open source the packages<br>
 So the watches are very difficult to get rooted<br>
 A stable and effective Root method is currently not available<br>
+
+> 2021.8.27* Maybe it's already been R.I.P.
+
 ## Common Amartown Config
 | Device | A-WATCH(16G) |
 | ----------------: | :---------------------------------------------- |
@@ -108,4 +113,4 @@ wm size
 * Force to restore factory Settings
 > Click the power button rapidly in succession
 ## Fin
-2021.3.9
+Origin push:2021.3.9
